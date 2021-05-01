@@ -1,0 +1,2 @@
+# Emojional
+Emoji embeddings 
