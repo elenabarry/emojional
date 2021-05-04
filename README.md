@@ -62,14 +62,12 @@ I used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/em
 ### Training your own dataset
 The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. I ran the file ‘presentation.ipynb’ to train the embeddings.
 
-
 ## Testing
 I used emoji2vec's original testing script and updated to current Python standards here.
 
 ### Results
 I have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
-I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis.
-As you can see it performed really well for the most popular emojis:
+I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis. Beating all other embeddings using Random Forests. 
 
 ## Visulization
 
