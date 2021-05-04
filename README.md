@@ -30,7 +30,7 @@ To make quality embeddings, I needed to create negative samples.
 ## Test Train Dev Split
 
 In the original paper the authors used a training folder which contained the datasets train.txt, test.txt and dev.txt in a 91.8% train, 4.1% test, 4.1% develop split, and a testing folder which contained 20 identical true samples in train.txt, test.txt and dev.txt. The original layout and contents of these folders can be seen here. emoji2vec 
-My full dataset consisted of [12205] true samples and [1000] of false samples. I also used the same 91.8% train, 4.1% test, 4.1% develop split.
+My full dataset consisted of 12205 true samples and 1000 of false samples. I also used the same 91.8% train, 4.1% test, 4.1% develop split.
 8.2% of 12205 = 1000 (rounded down)
 
 ## My Data Folder
@@ -57,13 +57,13 @@ My folders can be found here.
 
 ## Training
 
-I used a repository developed by Piotr Wiercinski who has created a PyTorch implementation of emoji2vec. It can be found here.
+I used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
+
+### Training your own dataset
 The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. I ran the file ‘presentation.ipynb’ to train the embeddings.
-Here is the accuracy of my model when training:
 
 
 ## Testing
-
 I used emoji2vec's original testing script and updated to current Python standards here.
 
 ### Results
