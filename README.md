@@ -83,3 +83,12 @@ I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twi
 
 ## Using the Emoji Embeddings
 
+To use the embedding you need to download the emojional.bin file and include the following code within your model.
+```python
+import gensim
+
+e2v = gensim.models.KeyedVectors.load_word2vec_format("emojional.bin", binary=True)
+```
+
+## References
+
