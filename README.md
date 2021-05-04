@@ -70,7 +70,7 @@ My folders can be found here.
 
 ## Training
 
-I used a repository developed by Piotr Wiercinski who has created a PyTorch implementation of emoji2vec. I have debugged it so that it is up to date with current Python libraries. It can be found here.
+I used a repository developed by Piotr Wiercinski who has created a PyTorch implementation of emoji2vec. It can be found here.
 The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. I ran the file ‘presentation.ipynb’ to train the embeddings.
 Here is the accuracy of my model when training:
 
