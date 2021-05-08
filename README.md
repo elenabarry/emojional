@@ -69,9 +69,9 @@ I used emoji2vec's original testing script and updated to current Python standar
 I have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
 I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis. Beating all other embeddings using Random Forests. 
 
-## Visulization
 
-![download](https://user-images.githubusercontent.com/53048127/117536197-93685700-aff1-11eb-80ae-6bc98a5a8bb4.png)
+## Mapping to Emotions and Key Words
+
 
 ### Homour
 
@@ -80,8 +80,10 @@ I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twi
 ### Similarities
 
 ### Analogy
+## Visulization
 
 ### Visualizing Embeddings in 2D spaces
+![download](https://user-images.githubusercontent.com/53048127/117536197-93685700-aff1-11eb-80ae-6bc98a5a8bb4.png)
 
 ## Using the Emoji Embeddings
 
