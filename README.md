@@ -71,6 +71,8 @@ I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twi
 
 ## Visulization
 
+![download](https://user-images.githubusercontent.com/53048127/117536197-93685700-aff1-11eb-80ae-6bc98a5a8bb4.png)
+
 ### Homour
 
 ### Plutchicks Wheel of Emotion
