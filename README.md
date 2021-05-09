@@ -1,6 +1,8 @@
 # Emojional
 Inspired by the current lack of existing emoji embedding models and their limited understanding of the nature of the evolving emotional content of the emoji, I have created novel emoji embeddings using their emotional content from their dictionary meanings. The subsequent emoji embeddings beat the state-of-the-art embeddings by up to 4% when tested on the task of sentiment analysis. 
 
+As these embeddings were also trained on keywords, the subsequent embeddings are durable in different natural language tasks. 
+
 ## Creating the Dataset
 
 I used the full [v13.1 emoji list](https://unicode.org/emoji/charts/full-emoji-list.html) from Unicode.org (1816 emojis)
