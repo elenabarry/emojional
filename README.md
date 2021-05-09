@@ -4,7 +4,7 @@ Inspired by the current lack of existing emoji embedding models and their limite
 ## Creating the Dataset
 
 I used the full emoji list, v13.1 from Unicode.org (1816 emojis)
-I scraped the key emotive words from the online dictionaries Emojipedia and Emojis.Wiki and created a new dataset. 
+I scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. 
 
 The data looks like this:
 🔮	crystal ball	future	magic	mysterious
