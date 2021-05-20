@@ -5,7 +5,6 @@ As these embeddings were also trained on keywords, the subsequent embeddings are
 
 ## Creating the Dataset
 
-I used the full [v13.1 emoji list](https://unicode.org/emoji/charts/full-emoji-list.html) from Unicode.org (1816 emojis)
 I scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. 
 
 The data looks like this:
