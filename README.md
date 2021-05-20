@@ -1,7 +1,7 @@
 # Emojional
 Inspired by the current lack of existing emoji embedding models and their limited understanding of the nature of the evolving emotional content of the emoji, I have created novel emoji embeddings using their emotional content from their dictionary meanings. The subsequent emoji embeddings beat the state-of-the-art embeddings by up to 4% when tested on the task of sentiment analysis. 
 
-As these embeddings were also trained on keywords, the subsequent embeddings are durable and can be used in different natural language tasks successfully.
+As these embeddings were also trained on keywords, the subsequent embeddings are durable and can be used in different natural language tasks successfully. The current embedding file contains all emojis as of v13.1. The emoji embedding file will be updated when new emojis are added. 
 
 ## Creating the Dataset
 
@@ -19,7 +19,7 @@ In order for the model to train the data, the data needs to look like this:
 * magic	🔮	True
 * mysterious	🔮	True
 
-To achieve this I created a change dataset format script. It also has the functionality to shuffle the data.
+To achieve this I created a change dataset format script which also shuffles the data.
 
 ## Negative Sampling
 
@@ -31,14 +31,11 @@ To make quality embeddings, I needed to create negative samples.
 
 ## Test Train Dev Split
 
-In the original paper the authors used a training folder which contained the datasets train.txt, test.txt and dev.txt in a 91.8% train, 4.1% test, 4.1% develop split, and a testing folder which contained 20 identical true samples in train.txt, test.txt and dev.txt. The original layout and contents of these folders can be seen here. emoji2vec 
+In the original paper the authors used a training folder which contained the datasets train.txt, test.txt and dev.txt in a 91.8% train, 4.1% test, 4.1% develop split, and a testing folder which contained 20 identical true samples in train.txt, test.txt and dev.txt. 
+
 My full dataset consisted of 12205 true samples and 1000 of false samples. I also used the same 91.8% train, 4.1% test, 4.1% develop split.
-8.2% of 12205 = 1000 (rounded down)
 
 ## My Data Folder
-
-Total true samples = 12205
-(91.8% train, 4.1% test, 4.1% develop split)
 
 ### Training Folder
 
@@ -55,7 +52,7 @@ The training folder also uses a total of 500 negative samples
 * Test.txt uses 20 true samples
 * Develop.txt uses 20 true samples
 
-My folders can be found here.
+The folders can be found here.
 
 ## Training
 
