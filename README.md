@@ -10,7 +10,7 @@ I scraped the key emotive words from the online dictionaries [Emojipedia](https:
 The data looks like this:
 🔮	crystal ball	future	magic	mysterious
 
-## Change Dataset Format
+### Change Dataset Format
 
 In order for the model to train the data, the data needs to look like this:
 
@@ -20,7 +20,7 @@ In order for the model to train the data, the data needs to look like this:
 
 To achieve this I created a change dataset format script which also shuffles the data.
 
-## Negative Sampling
+### Negative Sampling
 
 To make quality embeddings, I needed to create negative samples.
 
@@ -34,9 +34,9 @@ In the original paper the authors used a training folder which contained the dat
 
 My full dataset consisted of 12205 true samples and 1000 of false samples. I also used the same 91.8% train, 4.1% test, 4.1% develop split.
 
-## My Data Folder
+### My Data Folder
 
-### Training Folder
+#### Training Folder
 
 * Train.txt consists of 11205 true samples.
 * Test.txt consists of 500 true samples and 500 false samples.
@@ -45,7 +45,7 @@ My full dataset consisted of 12205 true samples and 1000 of false samples. I als
 Training folder uses all true samples available spread over the three datasets
 The training folder also uses a total of 500 negative samples
 
-### Testing Folder
+#### Testing Folder
 
 * Train.txt uses 20 true samples
 * Test.txt uses 20 true samples
