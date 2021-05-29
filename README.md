@@ -1,11 +1,11 @@
 # Emojional
-Inspired by the current lack of existing emoji embedding models and their limited understanding of the nature of the evolving emotional content of the emoji, I have created novel emoji embeddings using their emotional content from their dictionary meanings. The subsequent emoji embeddings **are more accurate than the state-of-the-art embeddings by up to 4%** when tested on the task of sentiment analysis. 
+Inspired by the current lack of existing emoji embedding models and their limited understanding of the nature of the evolving emotional content of the emoji, we have created novel emoji embeddings using their emotional content from their dictionary meanings. The subsequent emoji embeddings **are more accurate than the state-of-the-art embeddings by up to 4%** when tested on the task of sentiment analysis. 
 
 As these embeddings were also trained on keywords, the subsequent embeddings are durable and can be used in different natural language tasks such as emotion, cyberbully and sarcasm detection successfully. The current embedding file contains all emojis as of [v13.1](https://unicode.org/emoji/charts/full-emoji-list.html) from Unicode.org (1816 emojis). The emoji embedding file will be updated when new emojis are added. 
 
 ## Creating the Dataset
 
-I scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. 
+We scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. 
 
 The data looks like this:
 🔮	crystal ball	future	magic	mysterious
@@ -18,7 +18,7 @@ In order for the model to train the data, the data needs to look like this:
 * magic	🔮	True
 * mysterious	🔮	True
 
-To achieve this I created a change dataset format script which also shuffles the data.
+To achieve this we created a change dataset format script which also shuffles the data.
 
 ### Negative Sampling
 
@@ -32,7 +32,7 @@ To make quality embeddings, I needed to create negative samples.
 
 In the original paper the authors used a training folder which contained the datasets train.txt, test.txt and dev.txt in a 91.8% train, 4.1% test, 4.1% develop split, and a testing folder which contained 20 identical true samples in train.txt, test.txt and dev.txt. 
 
-My full dataset consisted of 12205 true samples and 1000 of false samples. I also used the same 91.8% train, 4.1% test, 4.1% develop split.
+Our full dataset consisted of 12205 true samples and 1000 of false samples. We also used the same 91.8% train, 4.1% test, 4.1% develop split.
 
 ### My Data Folder
 
@@ -55,17 +55,17 @@ The folders can be found here.
 
 ## Training
 
-I used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
+We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
 
 ### Training your own dataset
-The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. I ran the file ‘presentation.ipynb’ to train the embeddings.
+The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train the embeddings.
 
 ## Testing
-I used emoji2vec's original testing script and updated to current Python standards here.
+We used emoji2vec's original testing script and updated to current Python standards here.
 
 ### Results
-I have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
-I compared my emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis. Beating all other embeddings using Random Forests. 
+We have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
+We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis. Beating all other embeddings using Random Forests. 
 
 
 ## Mapping to Emotions and Key Words
