@@ -70,14 +70,15 @@ We compared our emoji embeddings to the state-of-the-art emoji embeddings on a T
 
 ## Mapping to Emotions and Key Words
 
-
-### Homour
+Our emoji embeddings can map to emotion and key words:
 
 ### Plutchicks Wheel of Emotion
+![Screenshot 2021-05-30 at 15 55 08](https://user-images.githubusercontent.com/53048127/120110051-046bdc00-c164-11eb-984c-ce45643e8159.png)
 
-### Similarities
+### Seasons
+![Screenshot 2021-05-30 at 15 51 04](https://user-images.githubusercontent.com/53048127/120110044-fa49dd80-c163-11eb-8ca6-a93a53ecacc6.png)
 
-### Analogy
+
 ## Visulization
 
 ### Visualizing Embeddings in 2D spaces
