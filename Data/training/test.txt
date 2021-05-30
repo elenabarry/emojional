@@ -1,0 +1,890 @@
+bath	🛀	True
+nocturnal	🦉	True
+look	👈	True
+writing	🔏	True
+achievement	🔓	True
+relieved	🥵	True
+sugar	🧋	True
+anguished	😧	True
+remorse	😞	True
+traditional	🍔	True
+cancer	🦲	True
+biology	🦠	True
+pride	🏳️‍🌈	True
+routine	🛀	True
+garlic	🧄	True
+research	🔬	True
+happy	😸	True
+outer space	👽	True
+love meat	🥩	True
+person lifting weights	🏋	True
+friendly	🐹	True
+fax machine	📠	True
+pinterest	📌	True
+late	🐇	True
+searching	👨‍🦯	True
+pet	🐩	True
+happiness	😁	True
+safari	🦛	True
+deal	✒	True
+breakfast	🍳	True
+transport	🚃	True
+bullseye	🎯	True
+blind	👨‍🦯	True
+late	🏎	True
+anger	⚡	True
+zodiac sign	♓	True
+hidden truth	🕵	True
+traveling	🚊	True
+morning	🕖	True
+forced smile	🥲	True
+brunei	🇧🇳	True
+caribbean netherlands	🇧🇶	True
+freedom	🗽	True
+chic	🖤	True
+sports team	🐗	True
+exercise	🚵‍♂️	True
+enjoyment	⛄	True
+hotel	🛌	True
+amazement	🤯	True
+joyful	🤠	True
+baby	🤰	True
+defend	🧝‍♂️	True
+doubt	👩‍❤️‍👩	True
+introspective	😔	True
+disagreement	🙅‍♂️	True
+sports team	🇽🇰	True
+ insult	🐖	True
+road change	⤵	True
+service	⛪	True
+embarrassment	😖	True
+birthday	♐	True
+ghost	👻	True
+interesting news	📠	True
+excitement	❕	True
+cringe	🤦‍♂️	True
+diving	🐙	True
+playful	😉	True
+weekends	🏖	True
+gay	👨‍👨‍👧	True
+prohibited	❎	True
+support	🧑‍🤝‍🧑	True
+nostalgia	📟	True
+speed	🏁	True
+fun	😜	True
+transport	🚵‍♂️	True
+nurse	🧑‍⚕️	True
+enchanted	🌑	True
+directions	↙	True
+forbidden	🈲	True
+test tube	🧪	True
+allegiance	🇸🇹	True
+herb	🌿	True
+man gesturing ok	🙆‍♂️	True
+spooky	🔦	True
+lust	❤️‍🔥	True
+sports team	🇩🇿	True
+positive	🤗	True
+transport	🚞	True
+forever	🔁	True
+soul	🪦	True
+duty	🖖	True
+impolite behaviour	🐖	True
+slight sadness	☁	True
+romantic	💑	True
+typing	💬	True
+chicken	🥚	True
+craving	🍦	True
+sports team	🇺🇾	True
+man tipping hand	💁‍♂️	True
+wilful ignorance	🙈	True
+gay	🏳️‍🌈	True
+sick	💫	True
+goodbye	👋	True
+woman with headscarf	🧕	True
+working hard	🦫	True
+spain	🇪🇸	True
+traveling	🗿	True
+sport	🏊‍♀️	True
+tense	🏁	True
+attention	➡	True
+frustration	😶	True
+sports team	🇨🇭	True
+competiton	⛵	True
+warmth	☺	True
+new york	🚖	True
+fashion	👟	True
+donate blood	🅱	True
+tsunami	🌊	True
+forgiveness	🧎	True
+balance	🤸‍♂️	True
+wood	🏕	True
+sponge	🧽	True
+travel	🛤	True
+laughing	😁	True
+unhealthy	🍫	True
+failure	🔥	True
+festive food	🫔	True
+impressive	🤩	True
+sports team	🇧🇫	True
+concern	😟	True
+storage	🗃	True
+fashion	👗	True
+building	🪚	True
+student	🥼	True
+hard work	🏋	True
+ashamed	🤦	True
+personality	♊	True
+label	🏷	True
+asian	🍚	True
+office	🗃	True
+people with bunny ears	👯	True
+disdain	🤷‍♀️	True
+full moon	🎑	True
+studying	📄	True
+flavor	🧈	True
+cheeky	🐵	True
+hard work	🏋️‍♂️	True
+patriotism	🇨🇫	True
+eagle	🦅	True
+treat	🍒	True
+weird	🌚	True
+publishing	🗞	True
+luxury	💎	True
+birthday	♑	True
+raging	🧐	True
+paperwork	🗃	True
+keyboard	⌨	True
+success	🤸‍♂️	True
+scorn	🤔	True
+patriotism	🇾🇪	True
+reunion	🇷🇪	True
+coats of arms	⚜	True
+allegiance	🇬🇧	True
+trex	🦖	True
+lollipop	🍭	True
+solar eclipse	⚫	True
+fed up	🤦‍♀️	True
+sweet	🥠	True
+exhaustion	😫	True
+wrapped gift	🎁	True
+maths	➕	True
+game	🏏	True
+man artist	👨‍🎨	True
+mexican	🌯	True
+selfie	🤳	True
+dry skin	🧴	True
+addiction	🧟	True
+kindness	🥺	True
+friendship	👨‍❤️‍💋‍👨	True
+dirty	🪱	True
+traveling	🐙	True
+pranks	🃏	True
+sports team	🇨🇵	True
+frustration	🤦‍♂️	True
+broken	🤕	True
+blowfish	🐡	True
+toothbrush	🪥	True
+prohibited	🔞	True
+warm	🌺	True
+building	🏩	True
+lost	👩‍🚀	True
+excited	😺	True
+game	🏉	True
+whistling	😗	True
+unintelligence	🦤	True
+breakfast	🥯	True
+chewing	🦫	True
+celebration	🧨	True
+allegiance	🇻🇳	True
+entertain	🧑‍🎤	True
+clearing your mind	🧘	True
+paradise	🥥	True
+person running	🏃	True
+secret	🔑	True
+roll of paper	🧻	True
+dirtiness	🐷	True
+blushing	😶	True
+flu	🤒	True
+sport	🥇	True
+danger	🌋	True
+guernsey	🇬🇬	True
+tradition	🐉	True
+evening	🕕	True
+summer	🍓	True
+man supervillain	🦹‍♂️	True
+proud	👨‍👦	True
+disagreement	🤌	True
+smirking	😏	True
+watch	⌚	True
+attraction	😻	True
+allegiance	🇳🇱	True
+prayer	📿	True
+naughtiness	😈	True
+zodiac sign	♍	True
+keycap asterisk	*️⃣	True
+magical	🧜‍♀️	True
+dirty space	🕸	True
+decorative	⚜	True
+schedules	📆	True
+luggage storage	🛅	True
+gay	👨‍👨‍👦‍👦	True
+examine	🕵️‍♀️	True
+flag	🇭🇳	True
+summer	🏖	True
+hypnosis	😵‍💫	True
+frustrated	🙍	True
+happiness	👩‍👩‍👧‍👦	True
+salty	🥨	True
+success	🏆	True
+pain	🎻	True
+sweet	🫐	True
+judging	👩‍⚖️	True
+viewing	🔭	True
+confused	😫	True
+sport	🏊‍♂️	True
+body building	🏋️‍♂️	True
+intoxication	🥴	True
+plant	🌾	True
+children	👨‍👩‍👦‍👦	True
+desire	🪘	True
+funny	😹	True
+unhealthy	🍰	True
+personality	♋	True
+struggle	😣	True
+large blue diamond	🔷	True
+experimenting	👩‍🔬	True
+guilty pleasures	😏	True
+sport	🛷	True
+angry	🙎‍♀️	True
+love	💙	True
+ocean life	🐙	True
+sun with face	🌞	True
+metro	🚇	True
+skateboard	🛹	True
+timor leste	🇹🇱	True
+game	🥇	True
+marriage	🤵‍♂️	True
+investigating	🔍	True
+torn	🌪	True
+venezuela	🇻🇪	True
+sports team	🇻🇬	True
+motivated	🎖	True
+quick	🚒	True
+working out	💪	True
+fashion	👖	True
+skier	⛷	True
+savory	🥨	True
+dinner	🥟	True
+exploring	🧭	True
+virgo	♍	True
+flourish	🌠	True
+pleasure	﻿😀	True
+woman rowing boat	🚣‍♀️	True
+accomplished	🎓	True
+beautiful	🌷	True
+fondness	😙	True
+flash	🌩	True
+lesbian	👩‍👩‍👦‍👦	True
+sports team	🇯🇵	True
+joke	🥸	True
+appreciation	😄	True
+watching	👀	True
+parenthood	👼	True
+good person	🦸	True
+wisdom	🐲	True
+construction worker	👷	True
+nighttime	🌜	True
+allegiance	🇸🇳	True
+adorable	🐯	True
+traveling	🚄	True
+business	🕴	True
+distraction	👀	True
+pleading	🥺	True
+gifts	🛍	True
+plotting	🦹‍♀️	True
+anxiety	😰	True
+sweet	🍯	True
+sports team	🇭🇰	True
+tough	🦡	True
+bar	🍸	True
+healthy eating	🍓	True
+allegiance	🇻🇪	True
+allegiance	🇲🇿	True
+ceremony	🤵‍♀️	True
+happy colour	🟨	True
+light	🪶	True
+toilet	🧻	True
+roasted sweet potato	🍠	True
+pay attention	📴	True
+fashion	🧕	True
+hug	🦏	True
+pacify	🧑‍🍼	True
+exclamation mark	❣	True
+patriotism	🇩🇪	True
+magical	🧜‍♂️	True
+turn	↪	True
+hunting	🦈	True
+white flower	💮	True
+numbing	🍷	True
+chequered flag	🏁	True
+guadeloupe	🇬🇵	True
+transport	🛻	True
+hourglass not done	⏳	True
+excitement	😛	True
+ambivalent	🤧	True
+noodles	🍜	True
+treat	🍧	True
+time	🕒	True
+crazy	🤡	True
+cafes	🍰	True
+vacation	🛩	True
+saturn	🪐	True
+finland	🇫🇮	True
+school	🍱	True
+number	2️⃣	True
+stressed	💦	True
+no littering	🚯	True
+sweet	🧋	True
+insufficient sleep	🥱	True
+classical building	🏛	True
+lower the volume	🔽	True
+notebook with decorative cover	📔	True
+alert	⏰	True
+hungry	🥩	True
+persistent	♐	True
+party trick	🤹‍♂️	True
+hear no evil	🙉	True
+empty	🐚	True
+clean	✨	True
+taxes	🔢	True
+private	🕵	True
+airport representatives	🛂	True
+careful	🩰	True
+postal horn	📯	True
+obscenities	🤬	True
+teammates	🥍	True
+approval	👍	True
+art	💮	True
+traitors	🐁	True
+garden	🥕	True
+magic	🧞	True
+colour	🟢	True
+considering	🧐	True
+love you gesture	🤟	True
+romantic	🦪	True
+energetic	🔌	True
+orange	🍊	True
+fashion	💅	True
+romantic	💋	True
+rough hands	🦞	True
+quick	🥷	True
+inspired	🧑‍🎤	True
+frightened unexpectedly	😅	True
+sunset	🍹	True
+man standing	🧍‍♂️	True
+allegiance	🇪🇨	True
+awe	😲	True
+postal services	✉	True
+beautiful	🦋	True
+future	🥠	True
+traveling	🌎	True
+friendship	👊	True
+driving	⛓	True
+craving	🍞	True
+eerie	🌒	True
+sport	🚲	True
+futurism	🤖	True
+economical growth	💹	True
+museum	🏛	True
+not safe	🚱	True
+angry	🙎‍♂️	True
+flirtation	😏	True
+cloudy	🌥	True
+halloween	⏬	True
+storage	🗄	True
+open book	📖	True
+juicy	🍎	True
+mushroom	🍄	True
+transporting water	🪣	True
+shock	❗	True
+strength	📶	True
+coolness	😈	True
+cheese wedge	🧀	True
+four oclock	🕓	True
+watching movies	📀	True
+adorable	🦥	True
+safety	🚷	True
+defeated	🏳	True
+station	m	True
+proud	🧑‍🎓	True
+geography	🌐	True
+monorail	🚝	True
+lunches	🧃	True
+publishing	📃	True
+scream	🐓	True
+hump	🐫	True
+displeasure	😕	True
+happiness	🥲	True
+chad	🇹🇩	True
+postpone	⏸	True
+lungs	🫁	True
+lbgtq+	🏳️‍⚧️	True
+upwards	⤴	True
+busy working day	💆‍♂️	True
+toilet	🚾	True
+microbe	🦠	True
+faceless	👤	True
+power	🏋️‍♀️	True
+religion	☦	True
+sports team	🇬🇫	True
+extreme	‼	True
+ball up	🦔	True
+teacher	👨‍👧	True
+judaism	✡	True
+test answer possibilities	🆎	True
+happiness	😘	False
+union	🖋	False
+important	🇱🇧	False
+standing	😖	False
+doubt	🍗	False
+holidays	🤰	False
+nighttime	👳‍♂️	False
+silence	👩‍👩‍👧‍👦	False
+mobster	🇸🇪	False
+concerned	🎑	False
+pedestrians	🧑‍🦼	False
+friendly	🇸🇯	False
+sassy	🇨🇮	False
+hungry	🎍	False
+transport	🎋	False
+cook	﻿😀	False
+allegiance	👩‍🦳	False
+shower	🎁	False
+mountain	🇻🇦	False
+team	🔋	False
+greed	🌪	False
+creative	🌹	False
+patriotism	💯	False
+up	👺	False
+transport	😲	False
+allegiance	🌗	False
+beauty	⭐	False
+transport	🚢	False
+protection	🐀	False
+hobby	🐈‍⬛	False
+sunset	💀	False
+chef	🪙	False
+allegiance	🍍	False
+salary	👰‍♂️	False
+fishing	🏂	False
+cute	🎽	False
+allegiance	🧖‍♀️	False
+adventure	😑	False
+twilight	😋	False
+walk	💒	False
+lazy	☯	False
+badminton	🕵	False
+unhealthy	🇧🇯	False
+calm	🤵‍♀️	False
+speed	🗜	False
+briefcase	😿	False
+smell	🐫	False
+down	🏥	False
+asian	🕉	False
+belize	🤷‍♀️	False
+basic	🇵🇦	False
+parrot	👨‍🚒	False
+fear	🦠	False
+writing	🤮	False
+asia	🤝	False
+diamonds	🖱	False
+game	🙏	False
+peace	🍼	False
+sarcasm	👩‍👧	False
+desert	👩‍✈️	False
+diamond	👽	False
+friends	🎙	False
+playful	😳	False
+losing	🇳🇺	False
+person	🥵	False
+excitement	🥀	False
+christian	👚	False
+fun	😠	False
+vacation	🚌	False
+hanukkah	🙍‍♂️	False
+private	🖋	False
+heart	◽	False
+childish	🍊	False
+battle	🇻🇦	False
+eerie	👨‍👩‍👧‍👦	False
+coolness	🎷	False
+music	🥼	False
+joyful	🧱	False
+sceptical	👨‍💻	False
+hypnosis	🍩	False
+learning	📘	False
+savory	🦃	False
+metro	🏧	False
+pet	🧑‍🎨	False
+alone	🇧🇭	False
+one	🍸	False
+belgium	🚉	False
+wheelchair	😗	False
+martini	😢	False
+impaired	⏺	False
+boy	🦲	False
+off	🪐	False
+carrot	🦢	False
+eager	🍍	False
+delicious	👩‍💼	False
+childhood	🧍‍♂️	False
+superiority	♒	False
+outback	💁	False
+cooking	🎶	False
+nutritious	🈯	False
+bargain	🎏	False
+fined	☢	False
+fun	💆	False
+anxiety	👭	False
+glove	🌑	False
+9	💳	False
+hot	🤱	False
+turkmenistan	🏌️‍♀️	False
+team	7️⃣	False
+nobleness	🇧🇹	False
+19	🕗	False
+shy	✡	False
+lifestyle	👨‍👧	False
+undercover	🐲	False
+cuteness	♠	False
+baby	🟨	False
+impaired	🕊	False
+building	🤫	False
+emotionless	🕵️‍♀️	False
+georgia	🐰	False
+out	🎶	False
+scepticism	📖	False
+ledger	👩‍❤️‍💋‍👨	False
+europe	💿	False
+expense	🇲🇷	False
+annoyance	👳‍♀️	False
+pet	🇬🇭	False
+childish	🍍	False
+education	🤑	False
+beloved	🇦🇩	False
+wild	😹	False
+astronaut	🇭🇷	False
+lust	🧭	False
+zodiac	⚜	False
+potions	🔐	False
+dream	😽	False
+calculator	🤷‍♀️	False
+cuisine	⛱	False
+man	🚣‍♂️	False
+undercover	🧑‍🍼	False
+look	🐋	False
+cross	⬇	False
+sleeping	📆	False
+traveling	🍦	False
+disdain	🥫	False
+kiss	👨‍🦯	False
+tray	🏬	False
+reptile	☠	False
+ring	🤾‍♀️	False
+graceful	🤜	False
+learning	‼	False
+switching	🚣‍♀️	False
+happiness	😳	False
+woman	🏭	False
+thirsty	👅	False
+patriotism	👩‍❤️‍👨	False
+craving	🦖	False
+patriotism	*️⃣	False
+tender	🍝	False
+aries	👨‍👨‍👦	False
+pet	☄	False
+attraction	👩‍🌾	False
+mocking	🌾	False
+allegiance	🦖	False
+sun	🥂	False
+allegiance	😥	False
+competitive	🇿🇼	False
+liking	🗂	False
+excitement	🦖	False
+rare	🌰	False
+station	🌼	False
+fun	🤤	False
+trickster	🦋	False
+tears	💵	False
+greece	🧑‍💻	False
+achievement	🎋	False
+supernatural	📶	False
+success	🚣	False
+knowledge	🇵🇰	False
+baby	🇵🇲	False
+symbol	🐕‍🦺	False
+beaver	🙇‍♀️	False
+tennis	🐤	False
+jungle	🐕	False
+nighttime	🇸🇷	False
+escape	👍	False
+disappointed	📙	False
+kneeling	🌭	False
+cool	🃏	False
+frustration	🇬🇵	False
+truth	🏐	False
+worker	🥡	False
+game	👌	False
+insult	🇪🇦	False
+teammates	🧑‍🚒	False
+childish	⚧	False
+donor	🐂	False
+sport	🥉	False
+speed	🙊	False
+allegiance	😆	False
+work	🎋	False
+cat	🎐	False
+playful	🤗	False
+diet	↘	False
+tanzania	🚄	False
+cool	🤤	False
+button	🤸‍♂️	False
+christmas	🧗‍♀️	False
+craving	📆	False
+rich	🥑	False
+quick	🗣	False
+allegiance	🧑‍⚖️	False
+prayer	😣	False
+brighten	2️⃣	False
+student	🦔	False
+globe	👨‍✈️	False
+clean	🍱	False
+disbelief	💭	False
+wheelchair	👛	False
+patriotism	🦜	False
+affectionate	🇨🇱	False
+bodybuilder	✏	False
+hungry	🇿🇼	False
+beginner	🎶	False
+lipstick	✌	False
+rose	💮	False
+introspective	🇸🇩	False
+dissatisfaction	👢	False
+up	🇦🇬	False
+office	🍒	False
+huge	🤴	False
+flourish	🇱🇰	False
+safety	🧑‍🦳	False
+calming	❤️‍🩹	False
+hairy	🍠	False
+fly	🧆	False
+singer	🍺	False
+out	🐢	False
+studying	🤳	False
+happiness	🍦	False
+hello	💂	False
+dizzy	🇧🇷	False
+christmas	🦔	False
+west	🏇	False
+coward	🫂	False
+laughter	↩	False
+fun	🕤	False
+penguin	🪲	False
+trolleybus	🏵	False
+ship	💆‍♀️	False
+mugs	🦥	False
+nocturnal	🚆	False
+wisdom	🍮	False
+gardening	🤠	False
+perfect	🧉	False
+work	👩‍❤️‍👩	False
+rat	📿	False
+relax	🇬🇷	False
+romantic	🧍	False
+life	🥾	False
+hotel	⚫	False
+fishing	🎩	False
+boy	🇦🇮	False
+upset	🦁	False
+celebration	🐹	False
+competitive	🧏‍♂️	False
+important	🏇	False
+bird	👰‍♀️	False
+asia	🐱	False
+listening	🌄	False
+deal	🙂	False
+june	🏌	False
+underwear	➿	False
+disgust	🍔	False
+cuteness	🚩	False
+button	🌸	False
+desert	🐟	False
+allegiance	🤟	False
+pain	👸	False
+up	🍌	False
+pinched	🛌	False
+aspiration	🔜	False
+danger	🎚	False
+socialist	🇷🇼	False
+team	🧹	False
+out	🐘	False
+cute	🥀	False
+travel	🇰🇮	False
+farmer	🏴	False
+youth	👨‍🎨	False
+culture	🐝	False
+patriotism	👨‍🎓	False
+magical	🦆	False
+soul	🇧🇾	False
+ambulance	👀	False
+teammates	🌧	False
+taurus	🥮	False
+evening	🛌	False
+allegiance	🗡	False
+team	💢	False
+hungry	㊗	False
+holidays	🧟	False
+cuteness	🇧🇱	False
+silver	🧊	False
+childhood	🍪	False
+important	👩‍👩‍👧‍👦	False
+ham	🧁	False
+happiness	🎂	False
+building	🦝	False
+saw	💇	False
+laughter	🍬	False
+health	😙	False
+prayer	🇨🇾	False
+sarcastic	🛑	False
+ice	🇷🇺	False
+truth	🦞	False
+migraine	🤜	False
+theatre	🐜	False
+illness	👷	False
+television	🧐	False
+maths	🎉	False
+eerie	🗄	False
+boat	👬	False
+walks	🐡	False
+attraction	🧝‍♀️	False
+intoxicated	🦑	False
+spoon	🐬	False
+duty	👲	False
+romance	🅿	False
+preparations	🍓	False
+brazzaville	👃	False
+sunblock	🌾	False
+movement	🙇‍♂️	False
+nobility	🔥	False
+puzzled	🧑‍🏭	False
+romantic	🇸🇰	False
+keyboard	🧿	False
+slow	🌓	False
+assignment	🇸🇹	False
+success	🎎	False
+blue	🏂	False
+malawi	🥑	False
+romance	🌒	False
+sweet	👑	False
+holidays	🇸🇰	False
+patriotism	🇵🇪	False
+team	📗	False
+cheeky	🚨	False
+team	🔋	False
+experimenting	👨‍👩‍👧‍👦	False
+polynesia	🇧🇱	False
+upwards	🙈	False
+gardening	🇹🇳	False
+bowing	💭	False
+button	🔒	False
+farm	♑	False
+craving	🧢	False
+person	⏸	False
+team	🐯	False
+traveling	👩‍🎤	False
+martinique	😒	False
+insect	🥃	False
+drink	🧼	False
+west	❇	False
+team	☘	False
+team	🧙	False
+jealous	👒	False
+irony	🖕	False
+july	🤩	False
+celebration	⬆	False
+sport	🥋	False
+affectionate	🙇‍♀️	False
+allegiance	🪝	False
+explaining	📃	False
+royal	🥤	False
+hidden	🐆	False
+food	🇮🇲	False
+photograph	👢	False
+technology	🍵	False
+oclock	🧑‍🎓	False
+zzz	👨‍❤️‍💋‍👨	False
+islands	☸	False
+key	🍷	False
+discouraged	👗	False
+adventure	🤾‍♂️	False
+evening	🍡	False
+secrecy	🍺	False
+disgust	💆‍♀️	False
+team	🏎	False
+guide	🇱🇦	False
+evening	😶	False
+theater	🐧	False
+duck	🇳🇦	False
+happy	🤵	False
+legal	👩‍💼	False
+publishing	🟩	False
+sadness	🇰🇲	False
+garden	🇭🇳	False
+arrows	👩‍✈️	False
+sound	🪱	False
+japan	🇪🇷	False
+sailboat	😱	False
+muslim	🦄	False
+team	⚜	False
+painting	🈳	False
+envy	⛪	False
+power	🐀	False
+christmas	😛	False
+planning	🗄	False
+pigeon	🧗	False
+game	🌯	False
+nutella	🍫	False
+button	♾	False
+coolness	🍨	False
+places	👭	False
+concern	🔢	False
+delicious	🍌	False
+fairy	🙉	False
+garden	🥱	False
+warn	🦨	False
+teacher	😑	False
+achievement	🆖	False
+oyster	🧑‍🍼	False
+eagerness	🧝‍♀️	False
+banknote	🌍	False
+fairy	🇦🇴	False
+group	🇬🇭	False
+eclipse	🚶‍♂️	False
+insect	👜	False
+breasts	🩲	False
+circle	👝	False
+happiness	🌵	False
+singer	🙅‍♂️	False
+sport	🏳️‍🌈	False
+knowledge	🇨🇿	False
+diet	🕞	False
+unhealthy	🌰	False
+gecko	🫕	False
+light	🕉	False
+praying	😸	False
+friendly	🍰	False
+hands	⛴	False
+friends	👜	False
+friendly	🏳	False
+automatic	👴	False
