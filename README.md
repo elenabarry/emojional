@@ -70,7 +70,7 @@ We compared our emoji embeddings to the state-of-the-art emoji embeddings on a T
 
 ## Mapping to Emotions and Key Words
 
-Our emoji embeddings can map to emotions and keywords: 
+Our resulting emoji embeddings can successfully predict the correct emoji for types of emotions, humour and keywords: 
 
 ### Plutchicks Wheel of Emotion
 ![Screenshot 2021-05-30 at 15 55 08](https://user-images.githubusercontent.com/53048127/120110051-046bdc00-c164-11eb-984c-ce45643e8159.png)
@@ -81,6 +81,8 @@ Our emoji embeddings can map to emotions and keywords:
 ### Seasonal
 ![Screenshot 2021-05-30 at 15 51 04](https://user-images.githubusercontent.com/53048127/120110044-fa49dd80-c163-11eb-8ca6-a93a53ecacc6.png)
 
+### Sentences
+![Screenshot 2021-05-30 at 17 30 15](https://user-images.githubusercontent.com/53048127/120112188-b7d8ce80-c16c-11eb-9431-73120a51a5f8.png)
 
 
 ## Visulization
