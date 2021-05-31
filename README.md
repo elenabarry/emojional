@@ -20,7 +20,7 @@ To achieve this we created a [change dataset format](https://github.com/elenabar
 
 ### Negative Sampling
 
-To make quality embeddings, we needed to create negative samples.
+To make quality embeddings, we needed to create [negative samples](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/Negative_Sampling.ipynb).
 
 * ripe fruits🔮	False
 * dirt	🔮	False
