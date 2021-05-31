@@ -62,9 +62,10 @@ The train test and dev files have been replaced in both training and testing fol
 We used emoji2vec's original testing script and have updated it to current Python standards here.
 
 ### Results
-We have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
-We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis. Beating all other embeddings using Random Forests. 
+We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. 
+We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Generally beating all other embeddings using Random Forests. 
 
+<img width="467" alt="Screenshot 2021-05-31 at 02 46 22" src="https://user-images.githubusercontent.com/53048127/120128657-73741f80-c1ba-11eb-8f0e-9930e157937b.png">
 
 ## Mapping to Emotions and Key Words
 
