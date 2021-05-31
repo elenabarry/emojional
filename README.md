@@ -61,7 +61,7 @@ Download the repository of the [PyTorch implementation of emoji2vec](https://git
 If the file ‘phrase_embeddings.pkl’ exists in the ‘pre-trained’ folder it needs to be deleted as this will allow a new dictionary to be created from the new dataset. You need to run the file ‘presentation.ipynb’ to train the emoji embeddings. Our **emojional embeddings** can be found [here](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin). 
 
 ## Testing
-Download the repository for [emoji2vec](https://github.com/uclnlp/emoji2vec) and replace these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) which have been updated to the current Python standards. Then add the emoji embeedings files you would like to test in the folder 'data/word2ec' as well as a copy of the Google News word2vec embeddings. 
+Download the repository for [emoji2vec](https://github.com/uclnlp/emoji2vec) and replace these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) which have been updated to the current Python standards. Then add the emoji embeedings files you would like to test in the folder 'data/word2ec' as well as a copy of the Google News word2vec embeddings. Then run the file ['TwitterClassfication.ipynb'](https://github.com/elenabarry/emojional/blob/main/Original%20Emoji2vec/TwitterClassification.ipynb) to execute the testing. 
 
 ### Results
 We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Our emojional embeddings generally beat other embeddings using Random Forests and score the second highest using Linear SVM. 
