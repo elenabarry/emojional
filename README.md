@@ -95,6 +95,3 @@ import gensim
 
 e2v = gensim.models.KeyedVectors.load_word2vec_format("emojional.bin", binary=True)
 ```
-
-## References
-
