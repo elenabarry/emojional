@@ -16,7 +16,7 @@ In order for the model to train the data, the data needs to look like this:
 * magic	🔮	True
 * mysterious	🔮	True
 
-To achieve this we created a change dataset format script which also shuffles the data.
+To achieve this we created a [change dataset format](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/Change_dataset_format.ipynb) script which also shuffles the data.
 
 ### Negative Sampling
 
