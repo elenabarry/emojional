@@ -1,9 +1,9 @@
 # Emojional
+[Emojional Embeddings](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin)
+
 Inspired by the current lack of existing emoji embedding models and their limited understanding of the nature of the evolving emotional content of the emoji, we have created novel emoji embeddings using their emotional content from their dictionary meanings. The subsequent emoji embeddings are **generally more accurate than the state-of-the-art embeddings** when tested on the task of sentiment analysis. 
 
 As these embeddings were also trained on keywords, the subsequent embeddings are durable and can be used in different natural language tasks such as emotion, cyberbully and sarcasm detection successfully. The current embedding file contains all emojis as of [v13.1](https://unicode.org/emoji/charts/full-emoji-list.html) from Unicode.org (1816 emojis). The emoji embedding file will be updated when new emojis are added.
-
-[Emojional Embeddings](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin)
 
 ## Creating the Dataset
 
