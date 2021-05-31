@@ -61,7 +61,7 @@ Download the [PyTorch implementation of emoji2vec](https://github.com/pwiercinsk
 The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train. Our version of the file can be found here. 
 
 ## Testing
-We used emoji2vec's original testing script and have updated it to current Python standards here.
+Download [emoji2vec's](https://github.com/uclnlp/emoji2vec) repository and replace the following files which have been updated to current Python standards. Then add the emoji embeedings files you would like to test in the folder data/word2ec as well as a copy of the Google News word2vec embeddings. 
 
 ### Results
 We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. 
