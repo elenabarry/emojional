@@ -56,16 +56,16 @@ The testing folder contains 20 identical true samples.
 We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
 
 ### Training your own dataset
-Download the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) repository and then replace the 'presentation.ipynb' file with [this](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb) version. You will need to download your own pretrained word vectors such as, [Google News word2vec](https://code.google.com/archive/p/word2vec/) in binary format.
+Download the repository of the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) and then replace the 'presentation.ipynb' file with [this](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb) version. You will need to download your own pretrained word vectors in binary format such as, [Google News word2vec](https://code.google.com/archive/p/word2vec/).
 
-The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train. Our version of the file can be found here. 
+If the file ‘phrase_embeddings.pkl’ exists in the ‘pre-trained’ folder it needs to be deleted as this will allow a new dictionary to be created from the new dataset. You need to run the file ‘presentation.ipynb’ to train the emoji embeddings. Our **emojional embeddings** can be found [here](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin). 
 
 ## Testing
-Download [emoji2vec's](https://github.com/uclnlp/emoji2vec) repository and replace these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) which have been updated to current Python standards. Then add the emoji embeedings files you would like to test in the folder data/word2ec as well as a copy of the Google News word2vec embeddings. 
+Download the repository for [emoji2vec](https://github.com/uclnlp/emoji2vec) and replace these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) which have been updated to the current Python standards. Then add the emoji embeedings files you would like to test in the folder 'data/word2ec' as well as a copy of the Google News word2vec embeddings. 
 
 ### Results
 We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. 
-We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Generally beating all other embeddings using Random Forests. 
+We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Our emojional embeddings generally beat other embeddings using Random Forests and score the second highest using Linear SVM. 
 
 <img width="467" alt="Screenshot 2021-05-31 at 02 46 22" src="https://user-images.githubusercontent.com/53048127/120128657-73741f80-c1ba-11eb-8f0e-9930e157937b.png">
 
