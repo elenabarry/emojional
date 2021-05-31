@@ -30,7 +30,7 @@ To make quality embeddings, we created [negative samples](https://github.com/ele
 
 ## Test Train Dev Split
 
-Our full dataset consists of 10854 true samples and 890 of false samples. We use a 91.8% train, 4.1% test, 4.1% develop split.
+Our full dataset consists of 10854 true samples and 890 false samples. We use a 91.8% train, 4.1% test, 4.1% develop split.
 
 ### Our Data Folder
 
