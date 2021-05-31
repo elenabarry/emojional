@@ -53,10 +53,10 @@ The testing folder contains 20 identical true samples.
 
 ## Training
 
-We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) [1]. The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). The model will generate emoji vectors with dimension 300. It trains in batches of 8, 4 positive and 4 negative examples at a learning rate of 0.001. The model performs early-stopping on a held-out development set using 60 epochs of training. Various metrics, including an accuracy and F1 score are outputted.
+We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) [1]. The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec) [2]. The model will generate emoji vectors with dimension 300. It trains in batches of 8, 4 positive and 4 negative examples at a learning rate of 0.001. The model performs early-stopping on a held-out development set using 60 epochs of training. Various metrics, including an accuracy and F1 score are outputted.
 
 ### Training the dataset
-We downloaded the repository of the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) [1] and updated the file ['presentation.ipynb'](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb). We replaced the data folder with our new [data](https://github.com/elenabarry/emojional/tree/main/Data) [2] and downloaded pretrained word vectors [Google News word2vec](https://code.google.com/archive/p/word2vec/) to run this implementation. 
+We downloaded the repository of the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) [1] and updated the file ['presentation.ipynb'](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb). We replaced the data folder with our new [data](https://github.com/elenabarry/emojional/tree/main/Data) and downloaded pretrained word vectors [Google News word2vec](https://code.google.com/archive/p/word2vec/) to run this implementation. 
 
 If the file ‘phrase_embeddings.pkl’ exists in the ‘pre-trained’ folder, it needs to be deleted as this will allow a new dictionary to be created from the new dataset. The file ‘presentation.ipynb’ is run to train the emoji embeddings. This implementation of the model will produce our [**emojional embeddings**](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin). 
 
