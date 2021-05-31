@@ -38,16 +38,16 @@ The data used to train the model can be found [here](https://github.com/elenabar
 
 #### Training Folder
 
-* Train.txt consists of 9964 true samples.
-* Test.txt consists of 445 true samples and 445 false samples.
-* Dev.txt consists of 445 true samples and 445 false samples which are different from then test.txt.
+* train.txt consists of 9964 true samples.
+* test.txt consists of 445 true samples and 445 false samples.
+* dev.txt consists of 445 true samples and 445 false samples which are different from then test.txt.
 
 
 #### Testing Folder
 
-* Train.txt uses 20 true samples
-* Test.txt uses 20 true samples
-* Develop.txt uses 20 true samples
+* train.txt uses 20 true samples
+* test.txt uses 20 true samples
+* dev.txt uses 20 true samples
 
 The testing folder contains 20 identical true samples. 
 
