@@ -32,7 +32,7 @@ Our full dataset consists of 10854 true samples and 890 of false samples. We use
 
 ### Our Data Folder
 
-The data we used to train the model can be found here. 
+The data we used to train the model can be found [here](https://github.com/elenabarry/emojional/tree/main/Data). 
 
 #### Training Folder
 
