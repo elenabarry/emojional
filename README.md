@@ -10,8 +10,6 @@ We scraped the key emotive words from the online dictionaries [Emojipedia](https
 The data looks like this:
 🔮	crystal ball	future	magic	mysterious
 
-### Change Dataset Format
-
 In order for the model to train the data, the data needs to look like this:
 
 * crystal ball	🔮	True
@@ -22,7 +20,7 @@ To achieve this we created a change dataset format script which also shuffles th
 
 ### Negative Sampling
 
-To make quality embeddings, I needed to create negative samples.
+To make quality embeddings, we needed to create negative samples.
 
 * ripe fruits🔮	False
 * dirt	🔮	False
@@ -30,20 +28,18 @@ To make quality embeddings, I needed to create negative samples.
 
 ## Test Train Dev Split
 
-In the original paper the authors used a training folder which contained the datasets train.txt, test.txt and dev.txt in a 91.8% train, 4.1% test, 4.1% develop split, and a testing folder which contained 20 identical true samples in train.txt, test.txt and dev.txt. 
+Our full dataset consists of 10854 true samples and 890 of false samples. We use a 91.8% train, 4.1% test, 4.1% develop split.
 
-Our full dataset consisted of 12205 true samples and 1000 of false samples. We also used the same 91.8% train, 4.1% test, 4.1% develop split.
+### Our Data Folder
 
-### My Data Folder
+The data we used to train the model can be found here. 
 
 #### Training Folder
 
-* Train.txt consists of 11205 true samples.
-* Test.txt consists of 500 true samples and 500 false samples.
-* Dev.txt consists of 500 true samples and 500 false samples which are different from then test.txt.
+* Train.txt consists of 9964 true samples.
+* Test.txt consists of 445 true samples and 445 false samples.
+* Dev.txt consists of 445 true samples and 445 false samples which are different from then test.txt.
 
-Training folder uses all true samples available spread over the three datasets
-The training folder also uses a total of 500 negative samples
 
 #### Testing Folder
 
@@ -51,17 +47,17 @@ The training folder also uses a total of 500 negative samples
 * Test.txt uses 20 true samples
 * Develop.txt uses 20 true samples
 
-The folders can be found here.
+The testing folder contains 20 identical true samples. 
 
 ## Training
 
 We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
 
 ### Training your own dataset
-The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train the embeddings.
+The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train. Our version of the file can be found here. 
 
 ## Testing
-We used emoji2vec's original testing script and updated to current Python standards here.
+We used emoji2vec's original testing script and have updated it to current Python standards here.
 
 ### Results
 We have evaluated the emoji embeddings on a list of emotive words, emoji similarity and analogies.
@@ -70,7 +66,7 @@ We compared our emoji embeddings to the state-of-the-art emoji embeddings on a T
 
 ## Mapping to Emotions and Key Words
 
-Our resulting emoji embeddings can successfully predict the correct emoji for types of emotions, humour and keywords: 
+Our resulting emoji embeddings are successful at predicting different emoji usage:
 
 ### Plutchicks Wheel of Emotion
 ![Screenshot 2021-05-30 at 15 55 08](https://user-images.githubusercontent.com/53048127/120110051-046bdc00-c164-11eb-984c-ce45643e8159.png)
