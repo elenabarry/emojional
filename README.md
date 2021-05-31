@@ -5,7 +5,7 @@ As these embeddings were also trained on keywords, the subsequent embeddings are
 
 ## Creating the Dataset
 
-We scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. The scripts used to scrape can be found here. 
+We scraped the key emotive words from the online dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. This is the [script](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/python_scraping.ipynb.zip) which was used to scrape the websites. 
 
 The data looks like this:
 🔮	crystal ball	future	magic	mysterious
