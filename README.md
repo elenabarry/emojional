@@ -89,7 +89,7 @@ Our resulting emoji embeddings are successful at predicting different emoji usag
 
 ## Using the Emoji Embeddings
 
-To use the embedding you need to download the emojional.bin file and include the following code within your model.
+To use the embedding you need to download the [emojional.bin](https://github.com/elenabarry/emojional/blob/main/Emojional%20Embeddings/emojional.bin) file and include the following code within your model.
 ```python
 import gensim
 
