@@ -12,7 +12,7 @@ The data looks like this:
 
 The full dataset can be found [here](https://github.com/elenabarry/emojional/blob/main/Data/emojional%20dataset.csv).
 
-In order for the model to train the data, the data needs to look like this:
+In order for the model to train the data, the data needs to be in a tab-delimited, newline-delimited format:
 
 * crystal ball	🔮	True
 * magic	🔮	True
