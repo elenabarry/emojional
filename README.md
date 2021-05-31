@@ -64,14 +64,12 @@ If the file ‘phrase_embeddings.pkl’ exists in the ‘pre-trained’ folder i
 Download the repository for [emoji2vec](https://github.com/uclnlp/emoji2vec) and replace these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) which have been updated to the current Python standards. Then add the emoji embeedings files you would like to test in the folder 'data/word2ec' as well as a copy of the Google News word2vec embeddings. 
 
 ### Results
-We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. 
 We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Our emojional embeddings generally beat other embeddings using Random Forests and score the second highest using Linear SVM. 
 
 <img width="467" alt="Screenshot 2021-05-31 at 02 46 22" src="https://user-images.githubusercontent.com/53048127/120128657-73741f80-c1ba-11eb-8f0e-9930e157937b.png">
 
 ## Mapping to Emotions and Key Words
-
-Our resulting emoji embeddings are successful at predicting different emoji usage:
+We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. Each emoji embeddings can be seen to successfully display their multiple senses.
 
 ### Plutchicks Wheel of Emotion
 ![Screenshot 2021-05-30 at 15 55 08](https://user-images.githubusercontent.com/53048127/120110051-046bdc00-c164-11eb-984c-ce45643e8159.png)
@@ -85,6 +83,7 @@ Our resulting emoji embeddings are successful at predicting different emoji usag
 ## Visulization
 
 ### Visualizing Embeddings in 2D spaces
+We also present our results in the form of t-SNE visualisation where we can see clusters of emotions in 2D space.
 ![download](https://user-images.githubusercontent.com/53048127/117536197-93685700-aff1-11eb-80ae-6bc98a5a8bb4.png)
 
 ## Using the Emoji Embeddings
