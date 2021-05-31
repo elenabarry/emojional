@@ -56,7 +56,7 @@ The testing folder contains 20 identical true samples.
 We used a [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch). The original implementation of emoji2vec can be found [here](https://github.com/uclnlp/emoji2vec). 
 
 ### Training your own dataset
-Download the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) repository and then replace the 'presentation.ipynb' file with [this](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb) version. You will need to download a word2vec file. 
+Download the [PyTorch implementation of emoji2vec](https://github.com/pwiercinski/emoji2vec_pytorch) repository and then replace the 'presentation.ipynb' file with [this](https://github.com/elenabarry/emojional/blob/main/PyTorch%20Emoji2vec/presentation.ipynb) version. You will need to download your own pretrained word vectors such as, [Google News word2vec](https://code.google.com/archive/p/word2vec/) in binary format.
 
 The train test and dev files have been replaced in both training and testing folders. The file ‘phrase_embeddings.pkl’ in the ‘pre-trained’ folder (if it exists) needs to be deleted as this will allow a new dictionary to be created from the new dataset. We ran the file ‘presentation.ipynb’ to train. Our version of the file can be found here. 
 
