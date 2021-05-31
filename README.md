@@ -64,7 +64,7 @@ If the file ‘phrase_embeddings.pkl’ exists in the ‘pre-trained’ folder i
 We downloaded the repository for [emoji2vec](https://github.com/uclnlp/emoji2vec) and updated these [files](https://github.com/elenabarry/emojional/tree/main/Original%20Emoji2vec) to current Python standards. We then tested different versions of our emoji embeeding output files by adding them to the folder 'data/word2ec', as well as a copy of the Google News word2vec embeddings. The file ['TwitterClassfication.ipynb'](https://github.com/elenabarry/emojional/blob/main/Original%20Emoji2vec/TwitterClassification.ipynb) executes the testing.
 
 ### Results
-We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Our emojional embeddings generally beat other embeddings using Random Forests and score the second highest using Linear SVM. 
+We compared our emoji embeddings to the state-of-the-art emoji embeddings on a Twitter sentiment analysis task. Our emojional embeddings generally beat other embeddings using Random Forests and scored the second highest using Linear SVM. 
 
 <img width="467" alt="Screenshot 2021-05-31 at 02 46 22" src="https://user-images.githubusercontent.com/53048127/120128657-73741f80-c1ba-11eb-8f0e-9930e157937b.png">
 
