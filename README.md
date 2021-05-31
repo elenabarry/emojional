@@ -69,7 +69,7 @@ We compared our emoji embeddings to the state-of-the-art emoji embeddings on a T
 <img width="467" alt="Screenshot 2021-05-31 at 02 46 22" src="https://user-images.githubusercontent.com/53048127/120128657-73741f80-c1ba-11eb-8f0e-9930e157937b.png">
 
 ## Mapping to Emotions and Key Words
-We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. Each emoji embeddings can be seen to successfully display their multiple senses.
+We have evaluated the emoji embeddings on a list of emotions, sensations, feelings and keywords. Each emoji embeddings can be seen to successfully display multiple senses.
 
 ### Plutchicks Wheel of Emotion
 ![Screenshot 2021-05-30 at 15 55 08](https://user-images.githubusercontent.com/53048127/120110051-046bdc00-c164-11eb-984c-ce45643e8159.png)
