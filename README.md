@@ -77,10 +77,6 @@ Our resulting emoji embeddings are successful at predicting different emoji usag
 ### Seasonal
 ![Screenshot 2021-05-30 at 15 51 04](https://user-images.githubusercontent.com/53048127/120110044-fa49dd80-c163-11eb-8ca6-a93a53ecacc6.png)
 
-### Sentences
-![Screenshot 2021-05-30 at 17 30 15](https://user-images.githubusercontent.com/53048127/120112188-b7d8ce80-c16c-11eb-9431-73120a51a5f8.png)
-
-
 ## Visulization
 
 ### Visualizing Embeddings in 2D spaces
