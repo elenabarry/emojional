@@ -83,7 +83,7 @@ We have evaluated the emoji embeddings on a list of emotions, sensations, feelin
 ## Visulization
 
 ### Visualizing Embeddings in 2D spaces
-We also present our results in the form of t-SNE visualisation where we can see clusters of emotions in 2D space.
+We also present our results in the form of t-SNE visualisation where you can see clusters of emotions in 2D space.
 ![download](https://user-images.githubusercontent.com/53048127/117536197-93685700-aff1-11eb-80ae-6bc98a5a8bb4.png)
 
 ## Using the Emoji Embeddings
