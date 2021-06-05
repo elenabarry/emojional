@@ -5,9 +5,9 @@ As these embeddings were also trained on keywords, the subsequent embeddings are
 
 ## Creating the Dataset
 
-We scraped the key emotive words from the online emoji dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. [This](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/python_scraping.ipynb.zip) is the script used to scrape the websites. By using a [list](https://github.com/elenabarry/emojional/blob/main/Data/key_words_vocab.xlsx) of uniquely emotive, sensory and other keywords we were able to use the Python library Beautiful Soup to [scrape](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/pulling_emotive_words.ipynb) any matched words for each emoji description. 
+We scraped the key emotive words from the online emoji dictionaries [Emojipedia](https://emojipedia.org) and [Emojis.Wiki](https://emojis.wiki) and created a new dataset. [This](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/python_scraping.ipynb.zip) is the script we used to scrape each emoji description from these websites. By using a [list](https://github.com/elenabarry/emojional/blob/main/Data/key_words_vocab.xlsx) of uniquely emotive, sensory and other keywords we were able to use the Python library Beautiful Soup to [scrape](https://github.com/elenabarry/emojional/blob/main/Helpful%20Scripts/pulling_emotive_words.ipynb) any matched words for each emoji description. 
 
-The data looks like this:
+The final dataset structure looks like this:
 🔮	crystal ball	future	magic	mysterious
 
 The full dataset can be found [here](https://github.com/elenabarry/emojional/blob/main/Data/emojional%20dataset.csv).
